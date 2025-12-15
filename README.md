@@ -1,2 +1,5 @@
-# java-task-2
-Java coursework – Task 2 (console application, OOP and collections)
+## Java Coursework – Task 2
+Java console application demonstrating object-oriented programming and collections.
+
+**Tech:** Java  
+**Concepts:** OOP, collections, data handling, input validation
